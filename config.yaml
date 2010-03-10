@@ -1,0 +1,7 @@
+---
+general:
+  host: http://www.google.co.jp/
+  port: 
+  username:
+  password:
+  log: bad_results.txt
